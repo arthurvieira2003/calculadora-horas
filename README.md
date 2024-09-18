@@ -2,6 +2,8 @@
 
 Este projeto é uma API simples para calcular as horas trabalhadas com base no horário de início, fim e intervalo.
 
+Acadêmicos: Arthur Henrique Tscha Vieira, Marco Leone Merini e Rafael Rodrigues Ferreira de Andrade.
+
 ## Pré-requisitos
 
 - Node.js (versão 12 ou superior)
